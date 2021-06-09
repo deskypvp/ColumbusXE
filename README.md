@@ -12,6 +12,8 @@
 * ไปที่ Action> RDP_COFFIN> เรียกใช้เวิร์กโฟลว์
 * โหลดหน้าซ้ำแล้วกด RDP_COFFIN> build
 * กดลูกศรลงบน Connect To Your RPD เพื่อรับ IP, User, Password
+* มีปัญหาสอบถาม ที่ Discord: https://discord.gg/qxpQpQCp
 
-## ต้นฉบับ:
+
+## ดั้งเดิม:
 > https://github.com/c9ffin/rdp
